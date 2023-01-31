@@ -1,4 +1,5 @@
 env.sh
+notepad.txt
 
 terraform/.terraform*
 terraform/terraform*
